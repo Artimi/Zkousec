@@ -7,7 +7,7 @@ import time
 import datetime
 from questions import questions
 
-preparation_time = 4
+preparation_time = 60
 
 def test(question_number):
     q = questions[question_number]
